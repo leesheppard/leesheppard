@@ -1,7 +1,9 @@
-###Fun facts about Lee 👋
+Fun facts about Lee 👋
 
 - 🤔 I'm currently learning [Go](https://www.hugo.io)
 - 🔭 I've won awards and had a syndicated comic strip as a cartoonist
+- One of the first cartoonists in Australia to have an online presence
+- Learnt web development to compliment my digital art
 - 💬 Ask me about Digital Art and creating with Procreate
 - 📫 How to reach me: lee@leesheppard.com
 
