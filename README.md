@@ -1,16 +1,18 @@
-### Hi there 👋
+###Fun facts about Lee 👋
 
-<!--
-**leesheppard/leesheppard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤔 I'm currently learning [Go](https://www.hugo.io)
+- 🔭 I've won awards and had a syndicated comic strip as a cartoonist
+- 💬 Ask me about Digital Art and creating with Procreate
+- 📫 How to reach me: lee@leesheppard.com
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://res.cloudinary.com/leesheppard/image/upload/v1610525264/artwork/mandolorians.png" width="220">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------
+<p align="center">
+<img src="https://res.cloudinary.com/leesheppard/image/upload/v1496495524/Lee-Sheppard-Black_iv1j84.png" width="160"><br />
+<small>All Rights Reserved © 2021</small>
+</p>
+
+<!-- illustrations are subject to copyright © Lee Sheppard 2021, and cannot be reproduced/used without permission -->
