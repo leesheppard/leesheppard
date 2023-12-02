@@ -2,7 +2,7 @@ Fun facts about Lee 👋
 
 - Currently on the committee of Ruby Australia, recently as Vice President
 - Organiser of Rails Girls Sydney
-- Co-organiser of RubyConf 2023 Melbourne
+- Co-organiser of RubyConfAU 2023 Melbourne, and RubyConfAU 2024 Sydney
 - 🔭 I've won awards and had a syndicated comic strip as a cartoonist
 - One of the first cartoonists in Australia to have an online presence
 - Learnt web development to compliment my digital art
